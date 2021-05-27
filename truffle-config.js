@@ -10,5 +10,10 @@ module.exports = {
       network_id: 5777,
       host: '127.0.0.1',
     },
+    ganach: {
+      port: 7545,
+      network_id: 5777,
+      host: '127.0.0.1',
+    },
   },
 };
